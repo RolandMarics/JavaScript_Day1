@@ -1,3 +1,3 @@
 let firstName = "Roland"
 let lastName = "Marics"
-console.log(myName);
+console.log(firstName + " " +lastName);
